@@ -11,5 +11,5 @@ This project is created for practise purpose of Kotlin with MVVM pattern.
 Lets get started !!!!!!
 
 #### Lecture : 1 (Column Layout)
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](https://github.com/Apurba000Biswas/MVVMKotlin/blob/master/image/Screenshot%20from%202021-04-09%2000-03-21.png)
 
